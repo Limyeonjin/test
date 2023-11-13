@@ -7,7 +7,7 @@
     INTP
 
 ### 사진
-<img src="/img/img.jpeg.jpeg">
+<img src="img\img.jpeg">
 
 
 ### 희망 프로젝트 주제
